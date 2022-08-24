@@ -2,6 +2,26 @@
 
 ### Currently 16 years old student in science, on this github I share my small open source projects.
 
+
+
+
+```js
+const Me = {
+  Networks : {
+    Learning : ["A little bit of everything"],
+    Social : ["Discord"],
+    Project : "Agent Sdb",
+    Os : "Windows and Linux",
+  },
+  Personal : {
+    Activity : ["Developement", "Vidéo Games"],
+    Programming : "Html",
+    Dream : ["Money"],
+    Currently : ["Student", "Men", "16Yo" ]
+  }
+};
+
+```
 - 🔭 I’m currently working on [Agent SdB](https://agentsdb.xyz)
 - 📫 How to reach me: [Discord](https://discord.gg/j9zjdf5nA) / [Mail](contact@agentsdb.xyz)
 - 💻 I use [Webstorm](https://www.jetbrains.com/fr-fr/webstorm/) IDE powered by [JetBrainsIDE](https://www.jetbrains.com/)
