@@ -2,30 +2,12 @@
 
 ### Currently 16 years old student in science, on this github I share my small open source projects.
 
-
-
-
-```js
-const Me = {
-  Networks : {
-    Learning : ["A little bit of everything"],
-    Social : ["Discord"],
-    Project : "Agent Sdb",
-    Os : "Windows and Linux",
-  },
-  Personal : {
-    Activity : ["Developement", "Vidéo Games"],
-    Programming : "Html",
-    Dream : ["Money"],
-    Currently : ["Student", "Men", "16Yo" ]
-  }
-};
-
-```
 - 🔭 I’m currently working on [Agent SdB](https://agentsdb.xyz)
 - 📫 How to reach me: [Discord](https://discord.gg/j9zjdf5nA) / [Mail](contact@agentsdb.xyz)
 - 💻 I use [Webstorm](https://www.jetbrains.com/fr-fr/webstorm/) IDE powered by [JetBrainsIDE](https://www.jetbrains.com/)
 - 🍸 I live and study in La Russia
+
+---
 
 ## ⚙️ Programming Tools:
 
@@ -35,12 +17,16 @@ const Me = {
   [<img alt="clion" width="50px" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg"/>](https://www.jetbrains.com/clion/)
   [<img alt="nodeJS" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png"/>](https://nodejs.org/en/)
 
+---
+
 ## 🔧 OS :
  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
  ![Linux](https://img.shields.io/badge/Linux-orange?style=for-the-badge&logo=linux&logoColor=white) 
+
+---
  
 ## 🚩 Projects:
   | Name             | Link                              | Description                                                            |
@@ -48,9 +34,75 @@ const Me = {
   | Agent SdB       | https://agentsdb.xyz            | A discord bot playing lofi hip hop music 24/7 and admin key.      |
 
 
+---
+
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Derpinou&theme=tokyonight)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=115Hostil&theme=tokyonight)
+
+
+
+---
+
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Derpinou/count.svg" />
+  <img src="https://profile-counter.glitch.me/khddev/count.svg" />
 </p>
 
-<img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=115Hostil" />
+---
+
+## 🎯 My Skill Set:  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+  
+  
+  
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+---
+
+
