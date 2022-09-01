@@ -99,8 +99,8 @@
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/github/followers/115Hostil?style=social">
-  <img src="https://img.shields.io/github/stars/115Hostil?style=social">
+  <img src="https://img.shields.io/github/followers/FribourgMA?style=social">
+  <img src="https://img.shields.io/github/stars/FribourgMA?style=social">
   
 
 <p align="center"> 
