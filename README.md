@@ -95,12 +95,12 @@
 
 ## 📊 Stats:
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FribourgMA&theme=tokyonight)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TendoKid&theme=tokyonight)
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/github/followers/FribourgMA?style=social">
-  <img src="https://img.shields.io/github/stars/FribourgMA?style=social">
+  <img src="https://img.shields.io/github/followers/TendoKid?style=social">
+  <img src="https://img.shields.io/github/stars/TendoKid?style=social">
   
 
 <p align="center"> 
