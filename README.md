@@ -99,8 +99,8 @@
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/github/followers/TendoKid?style=social">
-  <img src="https://img.shields.io/github/stars/TendoKid?style=social">
+  <img src="https://img.shields.io/github/followers/BalaineFR?style=social">
+  <img src="https://img.shields.io/github/stars/BalaineFR?style=social">
   
 
 <p align="center"> 
