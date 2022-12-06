@@ -95,7 +95,7 @@
 
 ## 📊 Stats:
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyallhinou&theme=tokyonight)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WidgetScript&theme=tokyonight)
 
 ---
 <p align="center">
