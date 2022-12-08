@@ -95,12 +95,11 @@
 
 ## 📊 Stats:
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NyallhDev&theme=tokyonight)
-
 ---
 <p align="center">
   <img src="https://img.shields.io/github/followers/NyallhDev?style=social">
   <img src="https://img.shields.io/github/stars/NyallhDev?style=social">
+
   
 
 <p align="center"> 
