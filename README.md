@@ -1,11 +1,42 @@
 
-<h1><img src="https://readme-typing-svg.herokuapp.com?font=&color=%23F7B365&height=30&lines=%F0%9F%91%8B+Hi+there!;+I'm+Nyallh"/></h1>
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=&color=%23F7B365&height=30&lines=%F0%9F%91%8B+Hi+there!+I'm+Nyallh"/></h1>
 
 
 ##  🔭 About me:
-```
- Currently 16 years old student in science, on this github I share my small open source projects.
-```
+
+ Currently 17 years old student in computer science, on this github I share my small open source projects, have fun browsing it.
+
+- 🔭 I’m currently working on [StatsBot]
+- 📫 How to reach me: [Discord](https://discord.gg/a4j4Frk2Nr) / [Mail](help@nyallh.com)
+- 💻 I use [Webstorm](https://www.jetbrains.com/fr-fr/webstorm/) IDE powered by [JetBrainsIDE](https://www.jetbrains.com/)
+- 💰 I live and study in Suisse (Genève)
+
+
+<img src="https://64.media.tumblr.com/tumblr_m5ysjdlO9k1rxc577o1_640.gif" />
+
+
+
+## 🌍 Programming languages:
+[![progLang](https://skillicons.dev/icons?i=ts,js,java,html,css,py,cpp,php&theme=dark)](https://github.com/derpinou)
+
+  
+## 💻 Frameworks:
+
+  ### Css:
+  [![css](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://github.com/derpinou)
+  
+  ### Js:
+  [![js](https://skillicons.dev/icons?i=vue,nuxtjs,vite,nestjs&theme=dark)](https://github.com/derpinou)
+
+## ⚙️ Tools:
+
+  [![tools](https://skillicons.dev/icons?i=git,vscode,regex,idea,maven&theme=dark)](https://github.com/derpinou)
+  
+  
+  
+## 📦 Databases:
+ [![databases](https://skillicons.dev/icons?i=postgres,redis,mysql,sqlite,mongodb&theme=dark)](https://github.com/derpinou)
+
 ## 🔧 OS :
  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -76,18 +107,6 @@
 <br/>  
 
 ---
-
-## 🗣️ Language:
-
-<p align="center">
-|🇨🇵| |🇪🇸| 
-</p> 
-
-
-## 🚩 Projects:
-  | Name             | Link                              | Description                                                            |
-  |------------------|-----------------------------------|------------------------------------------------------------------------|
-  | Agent SdB       | https://agentsdb.xyz            | A discord bot playing lofi hip hop music 24/7 and also has commands for your server administration
           
 ## 👤 Profil:
 
@@ -100,13 +119,15 @@
   <img src="https://img.shields.io/github/followers/NyallhDev?style=social">
   <img src="https://img.shields.io/github/stars/NyallhDev?style=social">
 
-  
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/khddev/count.svg" />
-</p>
 
 ---
 
-<img src="https://64.media.tumblr.com/tumblr_m5ysjdlO9k1rxc577o1_640.gif" />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Derpinou&show_icons=true&hide_border=true&theme=discord_old_blurple" />
+<img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyallhDev&theme=discord_old_blurple" />
+
+
+
+
+
+
+<p align="center"> 
