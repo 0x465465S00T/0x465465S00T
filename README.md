@@ -1,5 +1,5 @@
 
-<h1><img src="https://readme-typing-svg.herokuapp.com?font=&color=%23F7B365&height=30&lines=%F0%9F%91%8B+Hi+there!+I'm+Kabyle"/></h1>
+<h1><img src="https://readme-typing-svg.herokuapp.com/?font=&color=%23F7B365&height=30&lines=%F0%9F%A6%8A+Hi+there!+I%27m+Kabyle"/></h1>
 
 
 ##  🔭 About me:
@@ -12,7 +12,7 @@
 - 💰 I live and study in Suisse (Genève)
 
 
-<img src="https://64.media.tumblr.com/tumblr_m5ysjdlO9k1rxc577o1_640.gif" />
+<img src="https://s2.best-wallpaper.net/wallpaper/3840x2160/1810/Fox-front-view-forest-darkness_3840x2160.jpg" />
 
 
 
@@ -107,11 +107,7 @@
 <br/>  
 
 ---
-          
-## 👤 Profil:
-
-<img src="https://discord.c99.nl/widget/theme-2/1011351087669854208.png">
-
+      
 ## 📊 Stats:
 
 ---
@@ -119,15 +115,27 @@
   <img src="https://img.shields.io/github/followers/NyallhDev?style=social">
   <img src="https://img.shields.io/github/stars/NyallhDev?style=social">
 
-
----
-
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Derpinou&show_icons=true&hide_border=true&theme=discord_old_blurple" />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sourir&show_icons=true&hide_border=true&theme=discord_old_blurple" />
 <img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyallhDev&theme=discord_old_blurple" />
+   
 
 
 
 
 
 
-<p align="center">  
+
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guldan45&theme=highcontrast)](https://git.io/streak-stats)
+
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Guldan45&show_icons=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guldan45&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldan45&repo=recount-addonscustom-3.3.5&show_owner=true&theme=midnight-purple)](https://github.com/Guldan45/Recount-AddonsCustom-3.3.5)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldan45&repo=PriceItem-Addon-BC-1.4.0&show_owner=true&theme=midnight-purple)](https://github.com/Guldan45/PriceItem-Addon-BC-1.4.0) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldan45&repo=NewUI-Vanilla-1.12&show_owner=true&theme=midnight-purple)](https://github.com/Guldan45/NewUI-Vanilla-1.12)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldan45&repo=Cloud-E-Azure&show_owner=true&theme=midnight-purple)](https://github.com/Guldan45/Cloud-E-Azure)
+
+ 
+
