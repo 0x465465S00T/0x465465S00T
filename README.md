@@ -110,32 +110,11 @@
       
 ## 📊 Stats:
 
----
-<p align="center">
-  <img src="https://img.shields.io/github/followers/NyallhDev?style=social">
-  <img src="https://img.shields.io/github/stars/NyallhDev?style=social">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IamRenard&theme=highcontrast)](https://git.io/streak-stats)
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sourir&show_icons=true&hide_border=true&theme=discord_old_blurple" />
-<img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyallhDev&theme=discord_old_blurple" />
-   
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=IamRenard&show_icons=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamRenard&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
-
-
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guldan45&theme=highcontrast)](https://git.io/streak-stats)
-
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Guldan45&show_icons=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guldan45&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldan45&repo=recount-addonscustom-3.3.5&show_owner=true&theme=midnight-purple)](https://github.com/Guldan45/Recount-AddonsCustom-3.3.5)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldan45&repo=PriceItem-Addon-BC-1.4.0&show_owner=true&theme=midnight-purple)](https://github.com/Guldan45/PriceItem-Addon-BC-1.4.0) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldan45&repo=NewUI-Vanilla-1.12&show_owner=true&theme=midnight-purple)](https://github.com/Guldan45/NewUI-Vanilla-1.12)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldan45&repo=Cloud-E-Azure&show_owner=true&theme=midnight-purple)](https://github.com/Guldan45/Cloud-E-Azure)
 
  
 
