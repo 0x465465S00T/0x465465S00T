@@ -1,5 +1,5 @@
 
-<h1><img src="https://readme-typing-svg.herokuapp.com/?font=&color=%23F7B365&height=30&lines=%F0%9F%A6%8A+Hi+there!+I%27m+Kabyle"/></h1>
+<h1><img src="https://readme-typing-svg.herokuapp.com/?font=&color=%23F7B365&height=30&lines=%F0%9F%A6%8A+Hi+there!+I%27m+Renard"/></h1>
 
 
 ##  🔭 About me:
