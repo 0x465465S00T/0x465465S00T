@@ -1,5 +1,5 @@
 
-<h1><img src="https://readme-typing-svg.herokuapp.com/?font=&color=%23F7B365&height=30&lines=%F0%9F%A6%8A+Hi+there!+I%27m+Patoche"/></h1>
+<h1><img src="https://readme-typing-svg.herokuapp.com/?font=&color=%23F7B365&height=30&lines=%F0%9F%A6%8A+Hi+there!+I%27m+yom kippour"/></h1>
 
 
 ##  🔭 About me:
@@ -12,7 +12,7 @@
 - 💰 I live and study in Suisse (Genève)
 
 
-<img src="https://s2.best-wallpaper.net/wallpaper/3840x2160/1810/Fox-front-view-forest-darkness_3840x2160.jpg" />
+<img src="https://cdn.discordapp.com/attachments/1097950494816747541/1098573471983878264/Capture_decran_2023-04-20_124825.png" />
 
 
 
@@ -110,9 +110,9 @@
       
 ## 📊 Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IamRenard&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lhommequicourt&theme=highcontrast)](https://git.io/streak-stats)
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=IamRenard&show_icons=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamRenard&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=IamRenard&show_icons=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lhommequicourt&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
